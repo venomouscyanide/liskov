@@ -1,2 +1,5 @@
 # liskov
-A bunch of examples of Liskov substitution
+Examples to illustrate the L in SOLID.
+
+Usage: python3 <name_of_program>
+
