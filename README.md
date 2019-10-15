@@ -10,4 +10,4 @@ Both folders contain the solutions as well.
 Usage: python3 <name_of_program>
 ~~~
 
-Google Sheets link https://docs.google.com/presentation/d/1Ter2Ez0lZyUj45dYZER_8SKTyQ2cXv_Gzjp_F5g_nrU/edit?usp=sharing
+Google Slides link https://docs.google.com/presentation/d/1Ter2Ez0lZyUj45dYZER_8SKTyQ2cXv_Gzjp_F5g_nrU/edit?usp=sharing
